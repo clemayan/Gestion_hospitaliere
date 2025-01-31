@@ -22,6 +22,6 @@ Python 3 : Analyse et statistiques sur les données hospitalières
 Mazuet Maya
 Noe Charlotte
 
-##Améliorations possibles ✨ : 
+## Améliorations possibles ✨ : 
 Ajouter une interface graphique, connecter la base de données à un vrai SGBD (MySQL, SQLite).
 
