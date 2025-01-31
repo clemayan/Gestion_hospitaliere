@@ -25,3 +25,8 @@ Noe Charlotte
 ## Améliorations possibles ✨ : 
 Ajouter une interface graphique, connecter la base de données à un vrai SGBD (MySQL, SQLite).
 
+## 📜 Licence  
+Ce projet est protégé par des droits d’auteur. Toute utilisation, modification, reproduction ou distribution sans autorisation est interdite.  
+
+🔗 Consultez le fichier [LICENSE.txt](LICENSE.txt) pour plus de détails.  
+
