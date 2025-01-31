@@ -1,0 +1,5 @@
+6,5427,Renaud,Roland,12_Liberation_Metz,123456789,12,H,constipation,6,/,B23,15/12/2023,16/12/2023,23h0,Noe,258€
+7,8724569,Dupont,Micheline,75_VictorHugo_Dunkerque,543973970,63,F,enceinte,1,5_accouchements,A56,01/03/2023,12/07/2023,14h54,Mazuet,13616€
+8,96283,Potter,Harry,21_Lilas_Troyes,913538103,14,H,saignement_interne,5,morsure_serpent,C77,21/10/2023,15/12/2024,17h43,Bouchard,26537€
+9,846249,Granger,Hermione,18_Grand_Londres,729163982,37,F,/,2,/,A24,14/02/2022,14/02/2022,13h0,Robert,50€
+10,942729,Stark,Tony,5_Profil_Orleans,942792733,47,H,Maux_tete,7,/,B24,23/05/2023,25/05/2023,1h54,Robert,536€

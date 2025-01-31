@@ -1,0 +1,4 @@
+Cardiologie,Robert,Jean,2_rueJean_Nice,123476789,67,N
+Chirurgie,Noe,Charlotte,12_rueMont_Puget,123456789,60,F
+Gynecologie,Mazuet,Maya,2_ruePont_Antibes,127890987,29,F
+Chirurgie,Bouchard,Marie,12_rueMile_Nice,123456709,23,F

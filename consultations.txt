@@ -1,0 +1,5 @@
+1,125367,Brasseur,Christien,93_Palais_Toulon,384219069,47,H,bruit_oreille,4,/,A23,12/12/2020,12/12/2021,12h12,Bouchard,2075€
+2,2903090,Lalonde,Lucas,17_Amendier_Marseille,293056389,12,H,doueleur_fulgurante_doifts,3,operation_poignet,A29,12/12/2020,12/12/2021,12h23,Mazuet,3290€
+3,2189,Carignan,Franck,64_Gustave_Nice,117414948,89,H,picottements,3,/,A21,12/12/2020,12/12/2021,1h34,Noe,3290€
+4,19093,Langelier,Sydney,79_Chateau_Antibes,123456789,18,F,douleur,3,/,B89,12/12/2020,23/12/2020,12h34,Michel,1998€
+5,98982,Primeau,Nathalie,10_Lille_Cannes,123496789,23,F,douleur_intense_dos,7,scoliose,C42,10/09/2023,12/02/2024,12h56,Mazuet,8764€
